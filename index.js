@@ -5,7 +5,7 @@ export default class RNBaseui extends React.Component{
     render() {
         return (
             <Text>
-                1123
+                11234
             </Text>
         );
     }
