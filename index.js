@@ -1,7 +1,7 @@
 import React from "react";
-import { Text } from 'react-native';
+import {AppRegistry, Text} from 'react-native';
 
-export default class RNBaseui extends React.Component{
+class RNSunUi extends React.Component {
     render() {
         return (
             <Text>
@@ -9,6 +9,7 @@ export default class RNBaseui extends React.Component{
             </Text>
         );
     }
-
 }
+
+
 
