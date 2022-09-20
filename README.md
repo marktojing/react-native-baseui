@@ -1,22 +1,19 @@
 
-# react-native-baseui
+# react-native-sun-ui
 
 ## Getting started
 
-`$ npm install react-native-baseui --save`
+`$ npm install react-native-sun-ui --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-baseui`
+`$ react-native link react-native-sun-ui`
 
 ### Manual installation
 
 
 ## Usage
 ```javascript
-import RNBaseui from 'react-native-baseui';
-
-// TODO: What to do with the module?
-RNBaseui;
+import { } from 'react-native-baseui';
 ```
   
